@@ -1,0 +1,13 @@
+{
+	"name": "otterwise_test",
+	"version": "1.0.0",
+	"description": "Teste técnico para vaga na Otterwise",
+	"main": "index.js",
+	"author": "Gabriel Misturini Reinhardt",
+	"license": "MIT",
+	"private": false,
+	"type": "module",
+	"dependencies": {
+		"node-fetch": "^3.1.0"
+	}
+}
